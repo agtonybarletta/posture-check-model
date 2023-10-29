@@ -1,0 +1,12 @@
+data/correct/*
+data/incorrect/*
+data/none/*
+
+data-to-label/*
+
+venv/
+
+jupyterlab/weights/*
+jupyterlab/models/*
+
+jupyterlab/.ipynb_checkpoints
