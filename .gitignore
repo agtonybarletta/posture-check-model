@@ -1,12 +1,17 @@
 data/correct/*
+!data/correct/.gitignore
 data/incorrect/*
+!data/incorrect/.gitignore
 data/none/*
+!data/none/.gitignore
 
 data-to-label/*
 
 venv/
 
 jupyterlab/weights/*
+!jupyterlab/weights/.gitignore
 jupyterlab/models/*
+!jupyterlab/models/.gitignore
 
 jupyterlab/.ipynb_checkpoints
